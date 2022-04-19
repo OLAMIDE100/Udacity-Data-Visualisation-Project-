@@ -4,8 +4,8 @@
 
 There are 113937 loan records in the dataset with 80 features out of which 30 important features and 84853 records will be considered for this our analysis due to their relevance in determining the amount of loan to be collected and prosper rating. 
 Majority of the variables are numeric (float and imteger) in nature, but the variable LoanOriginationDate is in datetime after careful convertion while the remaining features are categorical in nature.
-The dataset can be found in the repository for R's ggplot2 library [here](https://github.com/tidyverse/ggplot2/blob/master/data-raw/diamonds.csv),
-with feature documentation available [here](http://ggplot2.tidyverse.org/reference/diamonds.html).
+The dataset can be found in  [here](https://github.com/OLAMIDE100/Udacity-Data-Visualisation-Project-/blob/main/cleaned_loada_data.csv),
+with feature documentation available [here](https://github.com/OLAMIDE100/Udacity-Data-Visualisation-Project-/blob/main/Prosper%20Loan%20Data%20-%20Variable%20Definitions%20-%20Sheet1.pdf).
 
 
 ## Summary of Findings
